@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lesson4</string>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
 </resources>
