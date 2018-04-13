@@ -30,8 +30,8 @@
 
     <ImageView
         android:id="@+id/donut"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:padding="@dimen/padding_regular"
         android:layout_below="@id/choose_dessert"
         android:contentDescription="@string/donuts"
@@ -48,8 +48,8 @@
 
     <ImageView
         android:id="@+id/ice_cream"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:padding="@dimen/padding_regular"
         android:contentDescription="@string/ice_cream_sandwiches"
         android:layout_below="@id/donut"
@@ -66,8 +66,8 @@
 
     <ImageView
         android:id="@+id/froyo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_below="@id/ice_cream"
         android:padding="@dimen/padding_regular"
         android:contentDescription="@string/froyo"
